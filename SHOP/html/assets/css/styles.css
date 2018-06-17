@@ -1,0 +1,133 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/*=== Секция 1 ===*/
+.top__section {
+	width: 100%;
+	height: 60px;
+	margin-bottom: 20px;
+}
+
+.brd {
+	border: 1px solid black;
+}
+
+.main-menue {
+	height: 60px;
+}
+
+.login {
+	height: 60px;
+}
+
+.login__ico {
+	height: 60px;
+}
+
+.login__lnk {
+	height: 60px;
+}
+
+.cash {
+	height: 60px;
+}
+/*=================*/
+
+/*=== Секция 2 ===*/
+.mid__section {
+	width: 100%;
+	height: 121px;
+	margin-bottom: 20px;
+}
+
+.logotip {
+	height: 120px;
+}
+
+.tabs {
+	height: 120px;
+}
+
+.tabs a,
+.tabs a:hover,
+.tabs a:focus {
+	color: #337ab7;
+}
+
+.tab-content {
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+/*================*/
+
+/*=== Секция 3 ====*/
+.item__section {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.filters {
+	height: 540px;
+}
+
+.item__box {
+	height: 860px;
+}
+
+.sort {
+	height: 80px;
+	margin-bottom: 20px;
+}
+
+.items {
+	margin-bottom: 20px;
+	-moz-transition: all .3s ease-in-out; 
+    -o-transition: all .3s ease-in-out; 
+    -webkit-transition: all .3s ease-in-out; 
+    transition: all .3s ease-in-out;
+}
+
+.items_col {
+	height: 180px;
+}
+
+.items_row {
+	height: 100px;
+}
+
+.placing__box {
+	height: 40px;
+	margin-bottom: 20px;
+}
+
+/*======================*/
+
+/*=== Секция подвала ===*/
+
+.footer__section {
+	height: 60px;
+}
+
+/*======================*/
+
+@media (max-width: 768px) {
+	.filters {
+		height: 100px;
+		margin-bottom: 20px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
